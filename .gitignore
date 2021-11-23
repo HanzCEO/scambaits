@@ -1,0 +1,6 @@
+# Nano backups
+*~
+
+# Python
+*.pyc
+venv
